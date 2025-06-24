@@ -1,22 +1,23 @@
 
 # TERA Server 31.04 Retail Files + WebApp + VM (Gunner Patch)
 
-The time has come! A classic experience of TERA: The Fate of Arun is now freely available to everyone. I’ve been working hard alongside my friend hsdn to make this happen. We hope you all enjoy this release as much as we did.
+The time has come! A classic experience of TERA: The Fate of Arun is now freely available to everyone. I’ve been working hard alongside my friend hsdn to make this happen. We hope you all enjoy this release as much as we did.    
 
-It includes a patched Arbiter server, tera api v1.2.0 and a fully functional proxy, ready for you to set up your own server.
+It includes a patched Arbiter server, tera api v1.2.0 and a fully functional proxy, ready for you to set up your own server.    
+
 ![image](https://github.com/user-attachments/assets/fe67266e-51a0-4042-bec4-70f790247030)
 ![image](https://github.com/user-attachments/assets/12559e33-0f52-4f29-aa5d-bfaa979b4ed5)
 ![image](https://github.com/user-attachments/assets/851c92cf-efff-498a-ac62-adb194d297a1)
 ![image](https://github.com/user-attachments/assets/8a1d8075-da21-4283-8178-544b7ecf9f19)
 
-** Although Nexus is available, it clearly should have a rework since all mobs are weak.
+** Although Nexus is available, it clearly should have a rework since all mobs are weak.    
 
 # About this release
 - Official binaries & sheets 31.04 RUS protocol 286406
 - Topology Data
 - WebApp
 - Patched Arbiter Server
-- Reworked API with fantastic functions, stay tuned, hsdn will come with a great update very soon. [Now available, check here the new version 1.2.x](https://forum.ragezone.com/threads/tera-api-node-js-shop-and-launcher-with-client-patcher.1205579/post-9335535)
+- Reworked API with fantastic functions, stay tuned, hsdn will come with a great update very soon. [Now available, check here the new version 1.2.x](https://forum.ragezone.com/threads/tera-api-node-js-shop-and-launcher-with-client-patcher.1205579/post-9335535)    
 - Database sheets and scripts
 - Compatible client 31.04 RUS
 - Compatible client 31.04 EME Multilang USA/EUR/FRA/GER/RUS (Tweaked, not original)
@@ -79,8 +80,8 @@ I left a fully configured launcher on the Desktop
 
  ## Download
 
-[Client RUS](https://disk.yandex.ru/d/uHzXjdnt-PKIyg)
-[Client USA/EUR/FRA/GER/RUS](https://disk.yandex.com/d/Av-Y8MD-S2T3XA)(**04/04/2025**)
+[Client RUS](https://disk.yandex.ru/d/uHzXjdnt-PKIyg)    
+[Client USA/EUR/FRA/GER/RUS](https://disk.yandex.com/d/Av-Y8MD-S2T3XA)(**04/04/2025**)    
 
 <details>
   <summary>Password:</summary>
@@ -125,14 +126,14 @@ VZK&8ceiBKS2&@me!YNN&E9qw5G$YtwMAWjL39t&
 
 <details>
 <summary>Spoiler</summary>
-https://forum.ragezone.com/data/video/216/216485-1f8d64b8bee5baf427c8e561447e8241.mp4
+https://forum.ragezone.com/data/video/216/216485-1f8d64b8bee5baf427c8e561447e8241.mp4    
 </details>
 
 
-[hub, hub_gw, arb_gw and fcgi_gw (TW)](https://disk.yandex.com/d/1lJfi3hPIXGJSg) (Useful to create your own server/vm)
+[hub, hub_gw, arb_gw and fcgi_gw (TW)](https://disk.yandex.com/d/1lJfi3hPIXGJSg) (Useful to create your own server/vm)    
 
 ## Credits
 **Archgeus**  
 **HSDN**  
 
-Don't ask us how, just enjoy :blush:
+Don't ask us how, just enjoy :blush:    
