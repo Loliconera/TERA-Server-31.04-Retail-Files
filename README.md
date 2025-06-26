@@ -5,12 +5,14 @@ The time has come! A classic experience of TERA: The Fate of Arun is now freely 
 
 It includes a patched Arbiter server, tera api v1.2.0 and a fully functional proxy, ready for you to set up your own server.    
 
-![image](https://github.com/user-attachments/assets/fe67266e-51a0-4042-bec4-70f790247030)
-![image](https://github.com/user-attachments/assets/12559e33-0f52-4f29-aa5d-bfaa979b4ed5)
-![image](https://github.com/user-attachments/assets/851c92cf-efff-498a-ac62-adb194d297a1)
-![image](https://github.com/user-attachments/assets/8a1d8075-da21-4283-8178-544b7ecf9f19)
+![image](https://github.com/user-attachments/assets/c93715b7-9980-4888-b5f4-6ec4a9ae526b)
+![image](https://github.com/user-attachments/assets/03c51abd-d041-4f36-8efa-760933139317)
+![image](https://github.com/user-attachments/assets/5768367e-9290-4079-8268-ef6b91f9ace2)
+![image](https://github.com/user-attachments/assets/8362bc88-506d-4d87-98cc-3a0f860e8557)
+![image](https://github.com/user-attachments/assets/52d7a574-1c77-4d30-997c-8a7ebc119a53)
+![image](https://github.com/user-attachments/assets/6d06ada9-a078-45d6-a87e-cef26ce79d08)
 
-** Although Nexus is available, it clearly should have a rework since all mobs are weak.    
+**Although Nexus is available, it clearly should have a rework since all mobs are weak.**    
 
 # About this release
 - Official binaries & sheets 31.04 RUS protocol 286406
